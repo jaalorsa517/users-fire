@@ -1,19 +1,10 @@
-# firebase
+# UsersFire
 
-## Project setup
-```
-npm install
-```
+## Descripción
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Proyecto que muestra el uso de VueJs y Firestorage.
+Es un proyecto sencillo, tipo CRUD (Create Read Update Delete) con el objetivo de integrar las funciones necesarias para demostrar el uso de VueJs con los servicios de FireStorage.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+El aplicativo lo pueden probar en http://users-firestorage.jaalorsa.com
